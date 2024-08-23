@@ -78,5 +78,5 @@ If you use **ANY** code from the source:
 
 For questions, feedback, or suggestions, please contact us using the following methods:
 
-- **Email:** [*official0xdevelopment@outlook.com*](mailto:official0xdevelopment@outlook.com)
-- **Discord:** [*0x87926*](https://discord.com/users/0x87926)
+- **Email:** [*official0xdevelopment@outlook.com*]()
+- **Discord:** [*0x87926*]()
