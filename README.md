@@ -7,7 +7,7 @@ DukDuke JAVA GUI Development Kit is a comprehensive toolset designed to simplify
 ### Requirements
 
 - **Java Development Kit (JDK) 17 or above**  
-  **Recommended version:** OpenJDK 22.0
+  **Recommended version:** OpenJDK 22.0.2
 - **Gradle is recommended.**
 
 ### How to Import Templates and Example Variables?
@@ -67,7 +67,7 @@ These values must be filled in. Additionally, if the variable is a text or conta
 - `TYPE` = The type of the text (e.g., **Bold**, *Italic*, Plain)
 
 ### How to use templates?
-- If you want to use ready-made templates, there are a few things you need to know. The JDK version of the templates should always be Oracle OpenJDK 22.0.2 or higher. It is also recommended to open these templates with [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- If you want to use ready-made templates, there are a few things you need to know. The JDK version of the templates should always be Oracle [OpenJDK 22.0.2](https://jdk.java.net/22/) or higher. It is also recommended to open these templates with [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 ## Licensing
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). 
